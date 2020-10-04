@@ -1,7 +1,4 @@
 name: Start SSH via tmate
-on:
-  watch:
-    types: started
 
   uses: P3TERX/ssh2actions@main
   # Send connection info to Telegram (optional)
